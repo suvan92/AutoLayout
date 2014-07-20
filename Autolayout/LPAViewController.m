@@ -126,7 +126,7 @@
         newHeight = 300.0;
     }
     
-    // Add in changing the constraints in an animated fashion here.
+    // Add in changing the constraints in an animated fashion here
 }
 
 @end
