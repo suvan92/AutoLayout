@@ -126,8 +126,6 @@
         newHeight = 300.0;
     }
     
-    // Add in changing the constraints in an animated fashion here
-    
     [UIView animateWithDuration:2.0 animations:^(){
         self.framingViewHeight.constant = newHeight;
         self.framingViewWidth.constant = newWidth;
